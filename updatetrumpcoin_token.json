@@ -1,0 +1,30 @@
+{
+  "name": "Trump Token",
+  "symbol": "TRUMP",
+  "description": "Trump Token is a Solana-based cryptocurrency designed for trading and community engagement.",
+  "image": "https://github.com/sos-creator/logo/blob/b9071a92825533bd29c924c52581fcb398161c48/output-onlinepngtools.png",
+  "attributes": [
+    {
+      "trait_type": "Purpose",
+      "value": "Trading"
+    },
+    {
+      "trait_type": "Community",
+      "value": "Global"
+    }
+  ],
+  "properties": {
+    "creators": [
+      {
+        "address": "2j2Ngx8nZvdJ6AFZgV9FLnJz4QLSvGAuwmvwkCkBUdMH",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://github.com/sos-creator/logo/blob/b9071a92825533bd29c924c52581fcb398161c48/output-onlinepngtools.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
